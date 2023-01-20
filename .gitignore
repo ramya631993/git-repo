@@ -1,2 +1,3 @@
-user.log
-error.log
+*.log
+george
+pintu
