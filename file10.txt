@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hello world
+=======
+hi prashanth, how are you?
+>>>>>>> branch2
+hi ramya, im good.
